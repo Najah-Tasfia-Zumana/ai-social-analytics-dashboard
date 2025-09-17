@@ -1,1 +1,5 @@
+<p align="center">
+  <img src="assets/banner.png" alt="AI Social Analytics Dashboard" width="100%">
+</p>
+
 AI Social Analytics Dashboard – Designed and implemented an end-to-end AI system for brands, automating data collection, preprocessing, and model training. Built machine learning models to analyze social media comments and developed an interactive dashboard (Plotly, Tableau/Power BI) to visualize KPIs, engagement trends, and actionable insights.
